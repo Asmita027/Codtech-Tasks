@@ -23,5 +23,5 @@ The task demonstrates the use of SQL JOIN operations in MySQL.
 2. Run the `joins_task.sql` file
 3. View the outputs of each JOIN query
 
-## Author
-Pratik Date
+
+
